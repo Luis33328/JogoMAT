@@ -91,7 +91,7 @@ public class Main {
 			
 			switch(menu) {
 				case 1:{
-					System.out.println("O relatória da nave diz que Samanta é inocente.");
+					System.out.println("O relatório da nave diz que Samanta é inocente.");
 					break;
 				}
 				case 2:{
